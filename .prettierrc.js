@@ -1,3 +1,3 @@
-const { default: config } = require('@sushiswap/prettier-config')
+const { default: config } = require('@sleepfinance/prettier-config')
 
 module.exports = config

@@ -1,4 +1,4 @@
-# @sushiswap/typescript-config
+# @sleepfinance/typescript-config
 
 ## 0.1.0
 
